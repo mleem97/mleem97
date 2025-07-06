@@ -4,13 +4,14 @@ Welcome to my GitHub profile! I'm a 28-year-old System Administrator with a pass
 
 ---
 
-### 🚀 My Current Projects
+### 🚀 My Projects
 
-| Project       | Role                | Description                                                                 |
-|---------------|----------------------|-----------------------------------------------------------------------------|
-| **MYGM** | Developer           | 🎮 A Game Master app for managing Pen & Paper RPG sessions like D&D and The Dark Eye (DSA). |
-| **SV Hameln** | Web Developer       | 🎯 Redesigning and modernizing the web presence for the Schützenverein Hameln (shooting club). |
-| **Gotham Prime**| Head Developer      | 🚓 Leading the development for a FiveM (GTA V) roleplay server.             |
+| Project           | Role                | Status & Description                                                              |
+|-------------------|----------------------|-----------------------------------------------------------------------------------|
+| **MYGM** | Developer           | 🎮 **Active:** A Game Master app for managing Pen & Paper RPG sessions (D&D, The Dark Eye). |
+| **SV Hameln** | Web Developer       | 🎯 **Active:** Redesigning and modernizing the web presence for a local shooting club. |
+| **Gotham Prime** | Head Developer      | 🚓 **Active:** Leading the development for a FiveM (GTA V) roleplay server.         |
+| **Rush Royale Bot** | Developer           | ⏸️ **On Hold:** A bot designed to automate gameplay for the mobile game Rush Royale. |
 
 ---
 
