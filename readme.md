@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a 28-year-old System Administrator with a pass
 | **SV Hameln** | Web Developer       | 🎯 **Active:** Redesigning and modernizing the web presence for a local shooting club. |
 | **Gotham Prime** | Head Developer      | 🚓 **Active:** Leading the development for a FiveM (GTA V) roleplay server.         |
 | **Rush Royale Bot** | Developer           | ⏸️ **On Hold:** A bot designed to automate gameplay for the mobile game Rush Royale. |
+| **Animus Link Manager** | Developer           | ⏸️ **New but On Hold:** Currently working on a Platform for Influencers and Musicians to promote their stuff. |
 
 ---
 
