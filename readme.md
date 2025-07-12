@@ -13,12 +13,13 @@ Welcome to my GitHub profile! I'm a 28-year-old System Administrator with a pass
 | **Gotham Prime** | Head Developer      | ⏸️ **On Hold:** Leading the development for a FiveM (GTA V) roleplay server.         |
 | **Rush Royale Bot** | Developer           | ⏸️ **On Hold:** A bot designed to automate gameplay for the mobile game Rush Royale. |
 | **Animus Link Manager** | Developer           | ⏸️ **Planning:** Currently working on a Platform for Influencers and Musicians to promote their stuff. |
+| **Burned Begone** | Developer           | 🎯 **Released:** Complete overhaul of Unburnable Meat, a Plugin for Rust Oxide to prevent Meat from Burning. |
 
 ---
 
 ### 💻 Tech Stack & Interests
 
-- **Languages:** Python | JavaScript/HTML/CSS | Lua
+- **Languages:** Python | JavaScript/HTML/CSS | Lua | several others :)
 - **Operating Systems:** Linux (Debian, Ubuntu, ...) & Windows
 - **Interests:** System Administration | Web Development | Game Server Development | Automation
 - **Hobbies:** 🎹 Music Production (for over 10 years) | 🎲 Pen & Paper RPGs (D&D/DSA) | Gaming
