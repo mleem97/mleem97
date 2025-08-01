@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a 28-year-old System Administrator with a pass
 | **MYGM** | Developer           | ⏸️ **On Hold:** A Game Master app for managing Pen & Paper RPG sessions (D&D, The Dark Eye). |
 | **SV Hameln** | Web Developer       | 🎯 **Active:** Redesigning and modernizing the web presence for a local shooting club. |
 | **Gotham Prime** | Head Developer      | ⏸️ **On Hold:** Leading the development for a FiveM (GTA V) roleplay server.         |
-| **Rush Royale Bot** | Developer           | ⏸️ **On Hold:** A bot designed to automate gameplay for the mobile game Rush Royale. |
+| **Rush Royale Bot** | Developer           | 🎯 **Restructure** A bot designed to automate gameplay for the mobile game Rush Royale. |
 | **Animus Link Manager (https://afnd.eu/)** | Developer           | ⏸️ **Planning:** Currently working on a Platform for Musicians to promote their music. |
 | **Burned Begone** | Developer           | 🎯 **Released:** Complete overhaul of Unburnable Meat, a Plugin for Rust Oxide to prevent Meat from Burning. |
 | **Animus Found LabelOS (animusfound.com)** | Developer | ⏸️ **Planning:** In Development. 
