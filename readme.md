@@ -28,40 +28,64 @@
 
 ## 🧑‍💻 Skills Overview
 
-| **System Administration**         | **Development**                  | **Support & Service**             |
-|-----------------------------------|----------------------------------|------------------------------------|
-| Windows Server & Active Directory | Frontend: React, HTML/CSS        | Helpdesk Support & Troubleshooting |
-| Linux Server Management           | Backend: Python                  | Customer Service & Communication   |
-| Network Configuration (DHCP)      | Database Management              | Jira Service Management            |
-| Virtualization & Docker           | GitHub & Version Control         | Documentation & Training           |
-| Azure Cloud Shell                 | Automation Scripts               | Project Leadership                 |
+### System Administration
+[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-1a237e?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Linux Server](https://img.shields.io/badge/Linux%20Server-333333?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![DHCP](https://img.shields.io/badge/DHCP-Networking-00bcd4?style=for-the-badge&logo=networkx&logoColor=white)](#)
+[![Virtualization](https://img.shields.io/badge/Virtualization-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Azure Cloud Shell](https://img.shields.io/badge/Azure%20Cloud%20Shell-1575F9?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
 
-| **Tools & Software**              | **Creative Skills**               | **Soft Skills**                    |
-|-----------------------------------|-----------------------------------|------------------------------------|
-| MS Office Suite                   | Digital Audio Workstation (DAW)   | Empathy & Customer Orientation     |
-| Adobe Creative Suite              | Game Design & RPG Development     | Team Collaboration                 |
-| CRM Systems                       | Creative Problem Solving          | Problem-Solving                    |
-| Callcenter Software               | Team Leadership                   | Communication & Presentation       |
-|                                   |                                   | Continuous Learning                |
+### Development
+[![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)](#)
+[![HTML/CSS](https://img.shields.io/badge/Frontend-HTML%2FCSS-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Database Management](https://img.shields.io/badge/Database-Management-darkblue?style=for-the-badge&logo=mysql)](#)
+[![GitHub & Version Control](https://img.shields.io/badge/GitHub-Version_Control-24292F?style=for-the-badge&logo=github)](#)
+[![Automation Scripts](https://img.shields.io/badge/Automation-Scripts-9e22ae?style=for-the-badge&logo=code)](#)
+
+### Support & Service
+[![Helpdesk](https://img.shields.io/badge/Helpdesk%20Support-00aaff?style=for-the-badge&logo=microsoftteams&logoColor=white)](#)
+[![Customer Service](https://img.shields.io/badge/Customer%20Service-43b581?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Jira Service Mgmt](https://img.shields.io/badge/Jira-Service_Management-0052cc?style=for-the-badge&logo=jira&logoColor=white)](#)
+[![Documentation](https://img.shields.io/badge/Documentation%20%26%20Training-eeeeee?style=for-the-badge&logo=bookstack&logoColor=black)](#)
+[![Project Leadership](https://img.shields.io/badge/Project%20Leadership-e91e63?style=for-the-badge&logo=leaderboard&logoColor=white)](#)
+
+### Tools & Software
+[![MS Office](https://img.shields.io/badge/MS%20Office%20Suite-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white)](#)
+[![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-ff0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](#)
+[![CRM Systems](https://img.shields.io/badge/CRM-Systems-0f4c81?style=for-the-badge&logo=crm&logoColor=white)](#)
+[![Callcenter Software](https://img.shields.io/badge/Callcenter-Software-2a465e?style=for-the-badge&logo=skype&logoColor=white)](#)
+
+### Creative Skills
+[![DAW](https://img.shields.io/badge/Digital%20Audio%20Workstation-FA7E1E?style=for-the-badge&logo=abletonlive&logoColor=white)](#)
+[![Game Design](https://img.shields.io/badge/Game%20Design-blueviolet?style=for-the-badge&logo=unity)](#)
+[![RPG Development](https://img.shields.io/badge/RPG%20Development-155799?style=for-the-badge&logo=dungeons&logoColor=white)](#)
+[![Creative Problem Solving](https://img.shields.io/badge/Creative%20Problem%20Solving-66ff66?style=for-the-badge&logo=lightbulb&logoColor=black)](#)
+[![Team Leadership](https://img.shields.io/badge/Team%20Leadership-f5b041?style=for-the-badge&logo=teams)](#)
+
+### Soft Skills
+[![Empathy](https://img.shields.io/badge/Empathy%20%26%20Customer%20Orientation-f395c7?style=for-the-badge&logo=heart&logoColor=white)](#)
+[![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-0077b6?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-283c63?style=for-the-badge&logo=question&logoColor=white)](#)
+[![Communication & Presentation](https://img.shields.io/badge/Communication%20%26%20Presentation-107dac?style=for-the-badge&logo=slides&logoColor=white)](#)
+[![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-009688?style=for-the-badge&logo=book&logoColor=white)](#)
 
 ---
 
 ## 📜 Certificates & Achievements
 
-| Certificate/Skill                            | Date        | Provider                      | Status           |
-|-----------------------------------------------|-------------|-------------------------------|------------------|
-| Azure Active Directory Domain Services Mgmt   | Mar 2025    | Microsoft Applied Skills       | Verified         |
-| Networking Basics Certification              | Mar 2025    | Cisco Networking               | Verified         |
-| Linux Operating System Fundamentals          | Mar 2025    | Cisco Linux Unhatched          | Verified         |
-| Service Desk & Management Platform           | 2025        | Jira Service Management        | Verified         |
-| Containerization & Virtualization            | Apr 2025    | Docker Fundamentals            | Verified         |
-| Always exploring new technologies            | Ongoing     | –                             | Continuous Learning |
-| Continuous Learning                          | Ongoing     | Self-Directed                  | Ongoing          |
+[![Azure Active Directory Domain Services](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Azure%20AD%20Domain%20Services-yellowgreen?style=for-the-badge&logo=microsoftazure)](#)
+[![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-Networking%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Linux Fundamentals](https://img.shields.io/badge/Linux%20OS%20Fundamentals-white?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Jira Service Management](https://img.shields.io/badge/Jira%20Service%20Desk-Management-0052cc?style=for-the-badge&logo=jira&logoColor=white)](#)
+[![Docker Fundamentals](https://img.shields.io/badge/Docker%20Fundamentals-2496ed?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-Ongoing-00C853?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 **Certificates in preparation:**  
-- AZ-900 (Microsoft Certified: Azure Fundamentals)  
-- AZ-104 (Microsoft Certified: Azure Administrator Associate)  
-- LPIC-1 (Linux Professional Institute Certification)  
+[![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)](#)
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure)](#)
+[![LPIC-1](https://img.shields.io/badge/LPIC--1-Linux%20Certification-333333?style=for-the-badge&logo=linux&logoColor=white)](#)
 
 ---
 
