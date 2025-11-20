@@ -48,6 +48,8 @@
 [![Database Management](https://img.shields.io/badge/Database-Management-darkblue?style=for-the-badge&logo=mysql)](#)
 [![GitHub & Version Control](https://img.shields.io/badge/GitHub-Version_Control-24292F?style=for-the-badge&logo=github)](#)
 [![Automation Scripts](https://img.shields.io/badge/Automation-Scripts-9e22ae?style=for-the-badge&logo=code)](#)
+[![Automation n8n](https://img.shields.io/badge/Automation-n8n-9e22ae?style=for-the-badge&logo=code)](#)
+
 
 ### Support & Service
 [![Helpdesk](https://img.shields.io/badge/Helpdesk%20Support-00aaff?style=for-the-badge&logo=microsoftteams&logoColor=white)](#)
