@@ -57,7 +57,6 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=default&hide=prs&hide_title=true&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=mleem97&theme=default&hide_border=true)
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=default&hide_border=true)
 
 ---
