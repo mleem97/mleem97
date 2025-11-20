@@ -81,6 +81,10 @@
 [![Docker Fundamentals](https://img.shields.io/badge/Docker%20Fundamentals-2496ed?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-Ongoing-00C853?style=for-the-badge&logo=openai&logoColor=white)](#)
 
+[![IHK Dialogmarketing](https://img.shields.io/badge/IHK-Dialogmarketing-264653?style=for-the-badge&logo=about-dot-me&logoColor=white)](#)
+[![IHK Sachkunde 34a](https://img.shields.io/badge/IHK-Sachkunde%20(§34a)-2a9d8f?style=for-the-badge&logo=book&logoColor=white)](#)
+[![Ersthelfer](https://img.shields.io/badge/Certified-First%20Responder-e76f51?style=for-the-badge&logo=first&logoColor=white)](#)
+
 **Certificates in preparation:**  
 [![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)](#)
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure)](#)
