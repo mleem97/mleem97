@@ -3,7 +3,6 @@
 ![Profile Banner](https://img.shields.io/badge/System%20Admin-DevOps-informational?style=flat&logo=githubactions&logoColor=white)
 ![Visitors](https://komarev.com/ghpvc/?username=mleem97&color=blue)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mleem97&theme=tokyonight&date_format=%5BY%20%5DM%20j)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&theme=radical&hide=Rich%20Text)  
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marvin-lee-meyer/)
@@ -64,7 +63,7 @@
 
 |     |     |
 |---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleem97&hide=stars,prs&theme=radical) | ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleem97&hide=stars,prs&theme=radical) | ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=mleem97&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
