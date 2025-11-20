@@ -83,7 +83,7 @@
 ## 📜 Certificates & Achievements
 
 [![Azure Active Directory Domain Services](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Azure%20AD%20Domain%20Services-yellowgreen?style=for-the-badge&logo=microsoftazure)](#)
-[![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-Networking%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-Networking%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/0eb6e290-68bb-4382-aecf-99614cb7ac59/public_url)
 [![Linux Fundamentals](https://img.shields.io/badge/Linux%20OS%20Fundamentals-white?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Jira Service Management](https://img.shields.io/badge/Jira%20Service%20Desk-Management-0052cc?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![Docker Fundamentals](https://img.shields.io/badge/Docker%20Fundamentals-2496ed?style=for-the-badge&logo=docker&logoColor=white)](#)
