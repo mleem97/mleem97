@@ -86,13 +86,18 @@
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure)](#)
 [![LPIC-1](https://img.shields.io/badge/LPIC--1-Linux%20Certification-333333?style=for-the-badge&logo=linux&logoColor=white)](#)
 
----
+--- 
 
 ## 💡 Interests & Hobbies
 
-- System Administration · Web Development · Game Server Development · Automation  
-- Music Production (10+ years) · Pen & Paper RPGs (D&D/DSA) · Gaming  
-- Self-learning IT topics: experimenting on my servers, home lab, and Raspberry Pi
+[![System Administration](https://img.shields.io/badge/System%20Administration-3178c6?style=for-the-badge&logo=serverfault&logoColor=white)](#)
+[![Web Development](https://img.shields.io/badge/Web%20Development-43b97f?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Game Server](https://img.shields.io/badge/Game%20Server%20Dev-7353ea?style=for-the-badge&logo=steam&logoColor=white)](#)
+[![Automation](https://img.shields.io/badge/Automation-ffa000?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![Music Production](https://img.shields.io/badge/Music%20Production-10+%20years-99aabb?style=for-the-badge&logo=abletonlive&logoColor=white)](#)
+[![Pen & Paper RPG](https://img.shields.io/badge/Pen%20&%20Paper%20RPGs-D&D%2FDSA-8d6cab?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](#)
+[![Gaming](https://img.shields.io/badge/Gaming-222831?style=for-the-badge&logo=epicgames&logoColor=white)](#)
+[![Self-Learning IT](https://img.shields.io/badge/Self--Learning%20IT-Home%20Servers%20%7C%20RPi-4facfe?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
 
 ---
 
