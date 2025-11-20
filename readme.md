@@ -14,50 +14,70 @@
 
 ## 🚀 Featured Projects
 
-| Project            | Role             | Description                                    |
-|--------------------|------------------|------------------------------------------------|
-| **MYGM**           | Developer        | ⏸️ On Hold – Game Master app for Pen & Paper RPGs (D&D, DSA) |
-| **Lunexor**        | Developer        | 🎯 Active – SaaS White-Label Billing Platform   |
-| **SV Hameln**      | Web Developer    | 🎯 Active – Relaunching local shooting club's website |
-| **Rush Royale Bot**| Developer        | ⏸️ On Hold – Mobile gameplay bot for Rush Royale |
-| **Animus Link Manager** | Developer  | ⏸️ Planning – Platform for musicians ([afnd.eu](https://afnd.eu/)), integrating into "LabelOS" |
-| **Burned Begone**  | Developer        | 🎯 Released – Rust Oxide plugin for unburnable meat |
-| **Animus Found LabelOS** | Developer | ⏸️ Planning – Platform for musicians ([animusfound.com](https://animusfound.com)) |
+| Project              | Role             | Description                                            |
+|----------------------|------------------|--------------------------------------------------------|
+| **MYGM**             | Developer        | ⏸️ On Hold – Game Master app for Pen & Paper RPGs      |
+| **Lunexor**          | Developer        | 🎯 Active – SaaS White-Label Billing Platform          |
+| **SV Hameln**        | Web Developer    | 🎯 Active – Relaunching a club website                 |
+| **Rush Royale Bot**  | Developer        | ⏸️ On Hold – Mobile bot for Rush Royale                |
+| **Animus Link Manager** | Developer     | ⏸️ Planning – Platform for musicians ([afnd.eu](https://afnd.eu/)) |
+| **Burned Begone**    | Developer        | 🎯 Released – Rust Oxide plugin for unburnable meat    |
+| **Animus Found LabelOS** | Developer    | ⏸️ Planning – Platform for musicians ([animusfound.com](https://animusfound.com)) |
 
 ---
 
-## 🧑‍💻 Tech Stack & Skills
+## 🧑‍💻 Skills Overview
 
-[![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](#)
-[![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnubash&logoColor=222)](#)
-[![Powershell](https://img.shields.io/badge/Powershell-0078d7?style=for-the-badge&logo=powershell&logoColor=white)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-0066cc?style=for-the-badge&logo=lua&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=222)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
-[![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)](#)
+| **System Administration**         | **Development**                  | **Support & Service**             |
+|-----------------------------------|----------------------------------|------------------------------------|
+| Windows Server & Active Directory | Frontend: React, HTML/CSS        | Helpdesk Support & Troubleshooting |
+| Linux Server Management           | Backend: Python                  | Customer Service & Communication   |
+| Network Configuration (DHCP)      | Database Management              | Jira Service Management            |
+| Virtualization & Docker           | GitHub & Version Control         | Documentation & Training           |
+| Azure Cloud Shell                 | Automation Scripts               | Project Leadership                 |
+
+| **Tools & Software**              | **Creative Skills**               | **Soft Skills**                    |
+|-----------------------------------|-----------------------------------|------------------------------------|
+| MS Office Suite                   | Digital Audio Workstation (DAW)   | Empathy & Customer Orientation     |
+| Adobe Creative Suite              | Game Design & RPG Development     | Team Collaboration                 |
+| CRM Systems                       | Creative Problem Solving          | Problem-Solving                    |
+| Callcenter Software               | Team Leadership                   | Communication & Presentation       |
+|                                   |                                   | Continuous Learning                |
 
 ---
 
-## 💡 About Me
+## 📜 Certificates & Achievements
 
-- **Interests:** System Administration · Web Development · Game Server Development · Automation  
-- **Hobbies:** Music Production (10+ years) · Pen & Paper RPGs (D&D/DSA) · Gaming  
-- **Curiosity:** Self-learning IT topics, experimenting on my home/own servers & Raspberry Pi
+| Certificate/Skill                            | Date        | Provider                      | Status           |
+|-----------------------------------------------|-------------|-------------------------------|------------------|
+| Azure Active Directory Domain Services Mgmt   | Mar 2025    | Microsoft Applied Skills       | Verified         |
+| Networking Basics Certification              | Mar 2025    | Cisco Networking               | Verified         |
+| Linux Operating System Fundamentals          | Mar 2025    | Cisco Linux Unhatched          | Verified         |
+| Service Desk & Management Platform           | 2025        | Jira Service Management        | Verified         |
+| Containerization & Virtualization            | Apr 2025    | Docker Fundamentals            | Verified         |
+| Always exploring new technologies            | Ongoing     | –                             | Continuous Learning |
+| Continuous Learning                          | Ongoing     | Self-Directed                  | Ongoing          |
+
+**Certificates in preparation:**  
+- AZ-900 (Microsoft Certified: Azure Fundamentals)  
+- AZ-104 (Microsoft Certified: Azure Administrator Associate)  
+- LPIC-1 (Linux Professional Institute Certification)  
+
+---
+
+## 💡 Interests & Hobbies
+
+- System Administration · Web Development · Game Server Development · Automation  
+- Music Production (10+ years) · Pen & Paper RPGs (D&D/DSA) · Gaming  
+- Self-learning IT topics: experimenting on my servers, home lab, and Raspberry Pi
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=default&hide=prs&hide_title=true&hide_border=true)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=default&hide=prs&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mleem97&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=default&hide_border=true)
 
 ---
 
