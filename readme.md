@@ -5,7 +5,6 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-lee-meyer/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1a73e8?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/marvinlee.de)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djmleem)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/djmleem)
 [![Website](https://img.shields.io/badge/Website-26836C?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://marvinlee.de)
