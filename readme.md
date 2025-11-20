@@ -104,12 +104,18 @@
 [![Self-Learning IT](https://img.shields.io/badge/Self--Learning%20IT-Home%20Servers%20%7C%20RPi-4facfe?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
 
 ---
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=default&hide=prs&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=default&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/mleem97?style=for-the-badge&logo=github)](https://github.com/mleem97?tab=followers)
+[![GitHub User’s stars](https://img.shields.io/github/stars/mleem97?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/mleem97?tab=stars)
+[![Public repositories](https://img.shields.io/badge/Public%20Repos-28-blue?style=for-the-badge&logo=github)](https://github.com/mleem97?tab=repositories)
+[![Public gists](https://img.shields.io/badge/Public%20Gists-9-26a69a?style=for-the-badge&logo=github)](https://gist.github.com/mleem97)
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=mleem97&style=for-the-badge&color=orange)](https://github.com/mleem97)
 
-> Always curious and open to new programming languages and technologies.
+<!-- Optionale Addition für Commits per Jahr -->
+[![Commits this year](https://img.shields.io/github/commit-activity/y/mleem97?style=for-the-badge&logo=github)](https://github.com/mleem97)
+
+<!-- Optional: letzte Aktivität Badge von Shields.io -->
+[![Last Commit](https://img.shields.io/github/last-commit/mleem97/mleem97?style=for-the-badge&logo=github)](https://github.com/mleem97/mleem97/commits/main)
+
