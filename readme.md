@@ -1,19 +1,21 @@
 # 👋 Hi, I'm Marvin!
+<!-- Stats Badges -->
+[![System Admin](https://img.shields.io/badge/System%20Admin-DevOps-2563EB?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mleem97)
+[![GitHub followers](https://img.shields.io/github/followers/mleem97?style=for-the-badge&logo=github&color=2563EB)](https://github.com/mleem97?tab=followers)
+[![GitHub User’s stars](https://img.shields.io/github/stars/mleem97?affiliations=OWNER&style=for-the-badge&logo=github&color=2563EB)](https://github.com/mleem97?tab=stars)
+[![Last Commit](https://img.shields.io/github/last-commit/mleem97/mleem97?style=for-the-badge&logo=github&color=2563EB)](https://github.com/mleem97/mleem97/commits/main)
 
-[![System Admin](https://img.shields.io/badge/System%20Admin-DevOps-blueviolet?style=for-the-badge)](https://github.com/mleem97)
-[![Visitors](https://komarev.com/ghpvc/?username=mleem97&style=for-the-badge&color=blue)](https://github.com/mleem97)
-[![GitHub followers](https://img.shields.io/github/followers/mleem97?style=for-the-badge&logo=github)](https://github.com/mleem97?tab=followers)
-[![GitHub User’s stars](https://img.shields.io/github/stars/mleem97?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/mleem97?tab=stars)
-[![Public repositories](https://img.shields.io/badge/Public%20Repos-28-blue?style=for-the-badge&logo=github)](https://github.com/mleem97?tab=repositories)
-[![Public gists](https://img.shields.io/badge/Public%20Gists-9-26a69a?style=for-the-badge&logo=github)](https://gist.github.com/mleem97)
-[![Profile Views](https://komarev.com/ghpvc/?username=mleem97&style=for-the-badge&color=orange)](https://github.com/mleem97)
-[![Last Commit](https://img.shields.io/github/last-commit/mleem97/mleem97?style=for-the-badge&logo=github)](https://github.com/mleem97/mleem97/commits/main)
+[![Public repositories](https://img.shields.io/badge/Public%20Repos-28-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mleem97?tab=repositories)
+[![Public gists](https://img.shields.io/badge/Public%20Gists-9-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/mleem97)
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-lee-meyer/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djmleem)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/djmleem)
-[![Website](https://img.shields.io/badge/Website-26836C?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://marvinlee.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-lee-meyer/)
+[![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djmleem)
+[![X](https://img.shields.io/badge/X-2563EB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/djmleem)
+[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://marvinlee.de)
+
+
+
 
 ---
 
@@ -34,21 +36,30 @@
 ## 🧑‍💻 Skills Overview
 
 ### System Administration
-[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Active Directory](https://img.shields.io/badge/Active%20Directory-1a237e?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Linux Server](https://img.shields.io/badge/Linux%20Server-333333?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![DHCP](https://img.shields.io/badge/DHCP-Networking-00bcd4?style=for-the-badge&logo=networkx&logoColor=white)](#)
-[![Virtualization](https://img.shields.io/badge/Virtualization-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Azure Cloud Shell](https://img.shields.io/badge/Azure%20Cloud%20Shell-1575F9?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
+[![Windows Server](https://img.shields.io/badge/Windows%20Server-2563EB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0...&labelColor=1a237e)](#)
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-2563EB?style=for-the-badge&labelColor=1a237e&logo=microsoft&logoColor=white)](#)
+[![Azure Cloud Shell](https://img.shields.io/badge/Azure%20Cloud%20Shell-2563EB?style=for-the-badge&labelColor=1a237e&logo=azuredevops&logoColor=white)](#)
+[![Linux Server](https://img.shields.io/badge/Linux%20Server-2563EB?style=for-the-badge&labelColor=1a237e&logo=linux&logoColor=white)](#)
+[![Virtualization](https://img.shields.io/badge/Virtualization-2563EB?style=for-the-badge&labelColor=1a237e&logo=docker&logoColor=white)](#)
+[![Network Management](https://img.shields.io/badge/Network%20Management-2563EB?style=for-the-badge&labelColor=1a237e&logo=cloudflare&logoColor=white)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&labelColor=1a237e&logo=githubactions&logoColor=white)](#)
+[![Containerization](https://img.shields.io/badge/Containerization-2563EB?style=for-the-badge&labelColor=1a237e&logo=docker&logoColor=white)](#)
+[![IT Security](https://img.shields.io/badge/IT%20Security-2563EB?style=for-the-badge&labelColor=1a237e&logo=trustpilot&logoColor=white)](#)
+[![Monitoring](https://img.shields.io/badge/Monitoring-2563EB?style=for-the-badge&labelColor=1a237e&logo=prometheus&logoColor=white)](#)
+[![Backup & Recovery](https://img.shields.io/badge/Backup%20%26%20Recovery-2563EB?style=for-the-badge&labelColor=1a237e&logo=veritas&logoColor=white)](#)
+[![Scripting](https://img.shields.io/badge/Scripting-2563EB?style=for-the-badge&labelColor=1a237e&logo=powershell&logoColor=white)](#)
+[![Configuration Management](https://img.shields.io/badge/Configuration%20Management-2563EB?style=for-the-badge&labelColor=1a237e&logo=ansible&logoColor=white)](#)
+[![Service Desk](https://img.shields.io/badge/Service%20Desk-2563EB?style=for-the-badge&labelColor=1a237e&logo=jira&logoColor=white)](#)
 
 ### Development
-[![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)](#)
-[![HTML/CSS](https://img.shields.io/badge/Frontend-HTML%2FCSS-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Database Management](https://img.shields.io/badge/Database-Management-darkblue?style=for-the-badge&logo=mysql)](#)
-[![GitHub & Version Control](https://img.shields.io/badge/GitHub-Version_Control-24292F?style=for-the-badge&logo=github)](#)
-[![Automation Scripts](https://img.shields.io/badge/Automation-Scripts-9e22ae?style=for-the-badge&logo=code)](#)
-[![Automation n8n](https://img.shields.io/badge/Automation-n8n-9e22ae?style=for-the-badge&logo=code)](#)
+[![React](https://img.shields.io/badge/Frontend-React-10B981?style=for-the-badge&logo=react)](#)
+[![HTML/CSS](https://img.shields.io/badge/Frontend-HTML%2FCSS-059669?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Backend-Python-34D399?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Database Management](https://img.shields.io/badge/Database-Management-10B981?style=for-the-badge&logo=mysql)](#)
+[![GitHub & Version Control](https://img.shields.io/badge/GitHub-Version_Control-047857?style=for-the-badge&logo=github)](#)
+[![Automation Scripts](https://img.shields.io/badge/Automation-Scripts-059669?style=for-the-badge&logo=code)](#)
+[![Automation n8n](https://img.shields.io/badge/Automation-n8n-34D399?style=for-the-badge&logo=code)](#)
+
 
 
 ### Support & Service
