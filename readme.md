@@ -21,15 +21,15 @@
 
 ## 🚀 Featured Projects
 
-| Project              | Role             | Description                                            |
-|----------------------|------------------|--------------------------------------------------------|
-| **MYGM**             | Developer        | ⏸️ On Hold – Game Master app for Pen & Paper RPGs      |
-| **Lunexor**          | Developer        | 🎯 Active – SaaS White-Label Billing Platform          |
-| **SV Hameln**        | Web Developer    | 🎯 Active – Relaunching a club website                 |
-| **Rush Royale Bot**  | Developer        | ⏸️ On Hold – Mobile bot for Rush Royale                |
-| **Animus Link Manager** | Developer     | ⏸️ Planning – Platform for musicians ([afnd.eu](https://afnd.eu/)) |
-| **Burned Begone**    | Developer        | 🎯 Released – Rust Oxide plugin for unburnable meat    |
-| **Animus Found LabelOS** | Developer    | ⏸️ Planning – Platform for musicians ([animusfound.com](https://animusfound.com)) |
+| Project | Role | Description |
+| :--- | :--- | :--- |
+| **MVNetSolutions Web Frontend** | Developer | 🎯 **InDev** – Webfrontend for MVNet Solutions UG incl. Billing Solution |
+| **SV Hameln** | Web Developer | 🎯 **InDev** – Relaunching a club website |
+| **Animus Found LabelOS** | Developer | 🎯 **InDev** – Platform for musicians ([animusfound.com](https://animusfound.com)) |
+| **Animus Link Manager** | Developer | ⏸️ **Planning** – Platform for musicians ([afnd.eu](https://afnd.eu/)) |
+| **LunexorWHM** | Developer | ⏸️ **Planning** – SaaS White-Label Billing Platform |
+| **LunexorBLOG** | Developer | ⏸️ **Planning** – Self Hosted Blog CMS Solution |
+
 
 ---
 
