@@ -9,7 +9,7 @@
 [![Public gists](https://img.shields.io/badge/Public%20Gists-9-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/mleem97)
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-lee-meyer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mleemeyer)
 [![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djmleem)
 [![X](https://img.shields.io/badge/X-2563EB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/djmleem)
 [![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://marvinlee.de)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Projects
 
 | Project | Role | Description |
 | :--- | :--- | :--- |
