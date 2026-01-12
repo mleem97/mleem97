@@ -22,7 +22,7 @@
   <a href="https://instagram.com/djmleem">
     <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-<br /> > NO SUPPORT OUTSIDE OF GITHUB! 
+<br /> *>NO SUPPORT OUTSIDE OF GITHUB!<* 
   <br />
   <br />
 
