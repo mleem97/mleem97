@@ -43,8 +43,6 @@
     <img src="https://img.shields.io/github/last-commit/mleem97/mleem97?style=for-the-badge&logo=github&color=2563EB&logoColor=white" alt="Last Commit" />
   </a>
 
-</div>
-
 ---
 
 ## 🚀 Current Projects
@@ -135,3 +133,4 @@
 <img src="https://img.shields.io/badge/Music_Production-2563EB?style=for-the-badge&logo=soundcloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Pen_&_Paper_RPG-2563EB?style=for-the-badge&logo=dungeonsanddragons&logoColor=white" />
 <img src="https://img.shields.io/badge/Gaming-2563EB?style=for-the-badge&logo=steam&logoColor=white" />
+</div>
