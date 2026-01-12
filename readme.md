@@ -1,19 +1,49 @@
-# 👋 Hi, I'm Marvin!
-<!-- Stats Badges -->
-[![System Admin](https://img.shields.io/badge/System%20Admin-DevOps-2563EB?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mleem97)
-[![GitHub followers](https://img.shields.io/github/followers/mleem97?style=for-the-badge&logo=github&color=2563EB)](https://github.com/mleem97?tab=followers)
-[![GitHub User’s stars](https://img.shields.io/github/stars/mleem97?affiliations=OWNER&style=for-the-badge&logo=github&color=2563EB)](https://github.com/mleem97?tab=stars)
-[![Last Commit](https://img.shields.io/github/last-commit/mleem97/mleem97?style=for-the-badge&logo=github&color=2563EB)](https://github.com/mleem97/mleem97/commits/main)
+<div align="center">
 
-[![Public repositories](https://img.shields.io/badge/Public%20Repos-28-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mleem97?tab=repositories)
-[![Public gists](https://img.shields.io/badge/Public%20Gists-9-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/mleem97)
+  <h1>👋 Hi, I'm Marvin!</h1>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mleemeyer)
-[![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djmleem)
-[![X](https://img.shields.io/badge/X-2563EB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/djmleem)
-[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://marvinlee.de)
+  <a href="https://github.com/mleem97">
+    <img src="https://img.shields.io/badge/System%20Admin-DevOps-2563EB?style=for-the-badge&logo=linux&logoColor=white" alt="System Admin DevOps" />
+  </a>
 
+  <br />
+  <br />
+
+  <a href="https://marvinlee.de">
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/mleemeyer">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/djmleem">
+    <img src="https://img.shields.io/badge/X-2563EB?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://instagram.com/djmleem">
+    <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <br />
+  <br />
+
+  <a href="https://github.com/mleem97?tab=repositories">
+    <img src="https://img.shields.io/github/public-repositories/mleem97?style=for-the-badge&logo=github&color=2563EB&logoColor=white&label=Public%20Repos" alt="Public Repositories" />
+  </a>
+  <a href="https://gist.github.com/mleem97">
+    <img src="https://img.shields.io/badge/Gists-Discover-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Gists" />
+  </a>
+  <br />
+  <a href="https://github.com/mleem97?tab=followers">
+    <img src="https://img.shields.io/github/followers/mleem97?style=for-the-badge&logo=github&color=2563EB&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://github.com/mleem97?tab=stars">
+    <img src="https://img.shields.io/github/stars/mleem97?affiliations=OWNER&style=for-the-badge&logo=github&color=2563EB&logoColor=white" alt="Stars" />
+  </a>
+  <br />
+  <a href="https://github.com/mleem97/mleem97/commits/main">
+    <img src="https://img.shields.io/github/last-commit/mleem97/mleem97?style=for-the-badge&logo=github&color=2563EB&logoColor=white" alt="Last Commit" />
+  </a>
+
+</div>
 
 
 
