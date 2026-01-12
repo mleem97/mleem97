@@ -3,9 +3,9 @@
   <h1>👋 Hi, I'm Marvin!</h1>
 
   <img src="https://img.shields.io/badge/Linux_Administration-2563EB?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows_Server-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Azure_Cloud-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker_&_Containers-2563EB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/System_Automation-2563EB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automation" />
 
   <br />
   <br />
@@ -22,7 +22,7 @@
   <a href="https://instagram.com/djmleem">
     <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
+<br /> > NO SUPPORT OUTSIDE OF GITHUB! 
   <br />
   <br />
 
@@ -62,51 +62,51 @@
 
 ## 🧑‍💻 Skills Overview
 
-### System Administration
-
+### ☁️ Infrastructure & Cloud
 <img src="https://img.shields.io/badge/Windows_Server-2563EB?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_Server-2563EB?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Virtualization-2563EB?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Active_Directory-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_Cloud-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Virtualization-2563EB?style=for-the-badge&logo=vmware&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Mgmt-2563EB?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/IT_Security-2563EB?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PowerShell-2563EB?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-2563EB?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Monitoring-2563EB?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Backup_&_Recovery-2563EB?style=for-the-badge&logo=veeam&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira_Admin-2563EB?style=for-the-badge&logo=jira&logoColor=white" />
 
-### Development
+### ♾️ DevOps, Automation & CI/CD
+<img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-2563EB?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-2563EB?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-2563EB?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Scripting-2563EB?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-2563EB?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Monitoring-2563EB?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-2563EB?style=for-the-badge&logo=grafana&logoColor=white" />
 
-<img src="https://img.shields.io/badge/HTML%2FCSS-2563EB?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+### 🛠️ Hardware & IT Operations
+<img src="https://img.shields.io/badge/PC_Building-2563EB?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardware_Assembly-2563EB?style=for-the-badge&logo=corsair&logoColor=white" />
+<img src="https://img.shields.io/badge/Troubleshooting-2563EB?style=for-the-badge&logo=ifixit&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Repair-2563EB?style=for-the-badge&logo=ifixit&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Basics_TCP%2FIP-2563EB?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS_&_DHCP-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Peripherals_Config-2563EB?style=for-the-badge&logo=logitech&logoColor=white" />
+
+### 💻 Development & Web
 <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
-
+<img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-2563EB?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Databases-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Git_&_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n_Automation-2563EB?style=for-the-badge&logo=n8n&logoColor=white" />
 
-### Support & Tools
-
+### 🎨 Creative, Support & Tools
+<img src="https://img.shields.io/badge/Affinity_Designer-2563EB?style=for-the-badge&logo=affinitydesigner&logoColor=white" />
+<img src="https://img.shields.io/badge/Affinity_Photo-2563EB?style=for-the-badge&logo=affinityphoto&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira_Service_Mgmt-2563EB?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Helpdesk-2563EB?style=for-the-badge&logo=microsoftteams&logoColor=white" />
-<img src="https://img.shields.io/badge/Customer_Service-2563EB?style=for-the-badge&logo=person&logoColor=white" />
-<img src="https://img.shields.io/badge/Documentation-2563EB?style=for-the-badge&logo=confluence&logoColor=white" />
-
 <img src="https://img.shields.io/badge/MS_Office_365-2563EB?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Creative_Cloud-2563EB?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/CRM_Systems-2563EB?style=for-the-badge&logo=salesforce&logoColor=white" />
-
-### Creative & Soft Skills
-<img src="https://img.shields.io/badge/Project_Leadership-2563EB?style=for-the-badge&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Team_Leadership-2563EB?style=for-the-badge&logo=microsoftteams&logoColor=white" />
-<img src="https://img.shields.io/badge/Music_Production-2563EB?style=for-the-badge&logo=abletonlive&logoColor=white" />
-<img src="https://img.shields.io/badge/Game_Design-2563EB?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Documentation-2563EB?style=for-the-badge&logo=confluence&logoColor=white" />
 
 ---
 
@@ -118,7 +118,6 @@
 </a>
 <img src="https://img.shields.io/badge/Linux_Fundamentals-2563EB?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker_Fundamentals-2563EB?style=for-the-badge&logo=docker&logoColor=white" />
-
 <img src="https://img.shields.io/badge/IHK_Dialogmarketing-2563EB?style=for-the-badge&logo=german&logoColor=white" />
 <img src="https://img.shields.io/badge/IHK_Sachkunde_§34a-2563EB?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/First_Responder-2563EB?style=for-the-badge&logo=redcross&logoColor=white" />
