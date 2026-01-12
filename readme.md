@@ -26,10 +26,7 @@
   <br />
   <br />
 
-  <a href="https://github.com/mleem97?tab=repositories">
-    <img src="https://img.shields.io/github/public-repositories/mleem97?style=for-the-badge&logo=github&color=2563EB&logoColor=white&label=Public%20Repos" alt="Public Repositories" />
-  </a>
-  <a href="https://gist.github.com/mleem97">
+ <a href="https://gist.github.com/mleem97">
     <img src="https://img.shields.io/badge/Gists-Discover-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Gists" />
   </a>
   <a href="https://github.com/mleem97?tab=followers">
