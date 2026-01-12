@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/github/last-commit/mleem97/mleem97?style=for-the-badge&logo=github&color=2563EB&logoColor=white" alt="Last Commit" />
   </a>
 
-</div>
+
 
 
 
@@ -152,5 +152,5 @@
 [![Gaming](https://img.shields.io/badge/Gaming-222831?style=for-the-badge&logo=epicgames&logoColor=white)](#)
 [![Self-Learning IT](https://img.shields.io/badge/Self--Learning%20IT-Home%20Servers%20%7C%20RPi-4facfe?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
 
-
+</div>
 
