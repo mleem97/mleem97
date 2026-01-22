@@ -45,9 +45,9 @@ I believe in **GitOps**. Instead of manual configuration, I strive for this work
 ---
 
 ### 📊 GitHub Stats
-![DeinGitHubUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeinGitHubUsername&show_icons=true&theme=tokyonight)
+![mleem97's GitHub stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeinGitHubUsername&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <div align="center">
