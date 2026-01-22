@@ -10,18 +10,18 @@ My focus is on bridging the gap between classic infrastructure (Windows/Linux) a
 
 ### 🛠️ Tech Stack & Tools
 
-**☁️ Cloud & Infrastructure**
+#### ☁️ **Cloud & Infrastructure**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-**🤖 Automation & DevOps**
+#### 🤖 **Automation & DevOps**
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**📜 Scripting**
+####📜 **Scripting**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -45,9 +45,7 @@ I believe in **GitOps**. Instead of manual configuration, I strive for this work
 ---
 
 ### 📊 GitHub Stats
-![mleem97's GitHub stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![mleem97's GitHub stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <div align="center">
