@@ -44,8 +44,7 @@ I believe in **GitOps**. Instead of manual configuration, I strive for this work
 
 ---
 
-### 📊 GitHub Stats
-![mleem97's GitHub stats](https://github-readme-stats.vercel.app/api?username=mleem97&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mleem97&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<iframe src="https://github.com/sponsors/mleem97/card" title="Sponsor mleem97" height="225" width="600" style="border: 0;"></iframe>
 
 ---
 <div align="center">
